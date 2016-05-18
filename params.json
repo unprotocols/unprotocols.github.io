@@ -1,0 +1,6 @@
+{
+  "name": "Unprotocols",
+  "tagline": "",
+  "body": "Unprotocols is a project for developing and maintaining universal, cross-project protocols used in software development, ranging from workflow to technical ones.\r\n\r\nIt has started as a new home for C4 and COSS protocols to elevate their prominence and articulate their usefulness outside of the original projects' boundaries. More protocols are welcome to join this project.\r\n\r\nYou can find the actual protocol specifications at http://rfc.unprotocols.org\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
